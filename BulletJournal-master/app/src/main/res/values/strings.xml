@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BulletJournal</string>
+    <string name="Journal_Button">My Journals</string>
+    <string name="Tutorial_Button">Tutorials</string>
+    <string name="Stats_Button">My Stats</string>
+    <string name="Main_Menu">Main Menu</string>
+</resources>
